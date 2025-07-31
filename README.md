@@ -25,22 +25,22 @@ To get started with the development server, follow these steps:\
 
 Install dependencies:\
 
-npm install \
+npm install 
 # or
-yarn install\
+yarn install
 # or
-pnpm install \
+pnpm install 
 # or
-bun install \
-Run the development server:\
+bun install 
+Run the development server:
 
-npm run dev\
+npm run dev
 # or
-yarn dev\
+yarn dev
 # or
-pnpm dev\
+pnpm dev
 # or
-bun dev\
+bun dev
 Open http://localhost:3000 with your browser to see the result. \
 
 You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.\
