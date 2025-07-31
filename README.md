@@ -67,7 +67,7 @@ Fork the repository on GitHub.
 
 Clone your forked repository to your local machine:
 
-git clone https://github.com/SaketKothari/finance-sass-expense-tracker-platform.git
+git clone https://github.com/lavanya0506/FinMate.git
 Create a new branch for your feature or bug fix:
 
 git checkout -b feature/your-feature-name
