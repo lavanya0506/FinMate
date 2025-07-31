@@ -42,9 +42,9 @@ You can start editing the page by modifying app/page.tsx. The page auto-updates 
 
 This project uses next/font to automatically optimize and load Inter, a custom Google Font.
 
-##Learn More
+# Learn More
 
-To learn more about Next.js, take a look at the following resources:\
+To learn more about Next.js, take a look at the following resources:
 * Next.js Documentation - Learn about Next.js features and API.
-* Learn Next.js - An interactive Next.js tutorial.
+* Learn Next.js - An interactive Next.js tutorial.\
 You can check out the Next.js GitHub repository - Your feedback and contributions are welcome!
