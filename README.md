@@ -1,6 +1,5 @@
 ## Snapshots
 <img width="1380" height="337" alt="Screenshot 2025-08-16 130108" src="https://github.com/user-attachments/assets/df4490bd-0551-41a8-9d38-2e4fa3f179a4" />
-<img width="779" height="193" alt="Screenshot 2025-08-16 123355" src="https://github.com/user-attachments/assets/23e93c10-e2e5-47b9-8202-8cc0c4cc5340" />
 <img width="1916" height="853" alt="350776424-efc5e8ea-9e53-4438-af85-7469c0ae9362" src="https://github.com/user-attachments/assets/53f12132-db71-43f1-9f5a-9c88429ab9f2" />
 
 
